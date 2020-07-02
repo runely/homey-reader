@@ -1,0 +1,15 @@
+{
+  "name": "homey-logic-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rune Moskvil Lyngås <rune.moskvil.lyngaas@vtfk.no>",
+  "license": "ISC",
+  "dependencies": {
+    "athom-api": "^3.2.8"
+  }
+}
