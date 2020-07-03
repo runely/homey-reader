@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Rune Moskvil Lyngås <rune.moskvil.lyngaas@vtfk.no>",
   "license": "ISC",
   "dependencies": {
-    "athom-api": "^3.2.8"
+    "athom-api": "^3.2.8",
+    "atob": "^2.1.2",
+    "dotenv": "^8.2.0"
   }
 }
